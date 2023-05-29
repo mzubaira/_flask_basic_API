@@ -32,7 +32,9 @@ marshmallow-sqlalchemy = "*"
 python_version = "3.11"
 ----------------------------------
 
-# Marshmallow -> object serialization/deserialization library,  converts complex data types to and from Python data types. It is a powerful tool for both validating and converting data.
+# Marshmallow
+object serialization/deserialization library,  converts complex data types to and from Python data types. It is a powerful tool for both validating and converting data.
 
-# jsonify -> takes python arrays/dict & convert them in json format
+# jsonify
+takes python arrays/dict & convert them in json format
 
